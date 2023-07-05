@@ -1,0 +1,9 @@
+.inline-container {
+    display: inline-block;
+  }
+  
+  .block-element {
+    display: block;
+    margin-bottom: 10px;
+  }
+  

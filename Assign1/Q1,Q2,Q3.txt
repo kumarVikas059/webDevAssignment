@@ -1,0 +1,19 @@
+Q.1 <!DOCTYPE html> is it a tag of html? If not, what is it and why do we use it?
+Ans:-No, <!DOCTYPE html> is not an HTML tag. It is called a Document Type Declaration (DTD) 
+    and is used to specify the version of HTML  being used in an HTML document.
+
+Q2.Explain Semantic tags in html? And why do we need it?
+Ans:-Semantic tags in HTML are specific HTML elements that carry meaning and convey the structure and purpose of the content within them. 
+    These tags provide additional context and semantics to both web browsers and developers, 
+    making it easier to understand and interpret the structure of the web page.
+    It also provide search engine optimization and code readability and accessiblity.
+
+Q.3 Differentiate between HTML Tags and Elements?
+Ans:-HTML Tags: HTML tags are the markup characters used to define elements within an HTML document. 
+    They are enclosed in angle brackets (<>). Tags define the structure and semantics of the content 
+    and provide instructions to the web browser on how to render that content. 
+    For example, <h1>, <p>, <div>, and <img> are all examples of HTML tags.
+
+    HTML Elements:- HTML elements are made up of tags, along with the content they enclose and any attributes associated with them. 
+    An HTML element consists of an opening tag, the content, and a closing tag. The opening tag and closing tag together form the element. 
+    For example: <h1>This is an example of an HTML element</h1>
